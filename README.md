@@ -10,3 +10,7 @@ This is the main page which is visible to everyone
 
 User can register or log in with their previous account
 - ![Picture2](https://user-images.githubusercontent.com/73070448/143721451-de7f0f52-d6dc-4cfc-b6ef-18e9262474e5.png)
+
+I have added an example user that has added list of books read
+
+-![Picture3](https://user-images.githubusercontent.com/73070448/143721482-1d845ee1-b430-45d0-a9dc-679f3b3df8ee.png)
