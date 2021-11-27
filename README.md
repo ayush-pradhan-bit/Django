@@ -7,3 +7,6 @@
 ## Pictures and Snapshots
 This is the main page which is visible to everyone
 - ![Picture1](https://user-images.githubusercontent.com/73070448/143721395-43a7dcf5-209a-4cc6-9c75-9330e73654ae.png)
+
+User can register or log in with their previous account
+- ![Picture2](https://user-images.githubusercontent.com/73070448/143721451-de7f0f52-d6dc-4cfc-b6ef-18e9262474e5.png)
