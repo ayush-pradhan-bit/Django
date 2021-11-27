@@ -5,4 +5,5 @@
 - This is then followed by building templates and other pages which will be linked to the home page
 - Lastly, to make the program more attractve we use bootstap styles to design the platform and connect it with an official HTTP for others to use it.
 ## Pictures and Snapshots
-- 
+This is the main page which is visible to everyone
+- ![Picture1](https://user-images.githubusercontent.com/73070448/143721395-43a7dcf5-209a-4cc6-9c75-9330e73654ae.png)
